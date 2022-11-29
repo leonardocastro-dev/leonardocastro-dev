@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Quickly
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando HTML & CSS
+- 🌱 Estudando HTML & CSS & JavaScript
 - 😄 Pronouns: ele/dele
 
 <div>

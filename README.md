@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Quickly
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como desenvolvedor Full-Stack
 - 🌱 Estudando HTML & CSS & JavaScript
 - 😄 Pronouns: ele/dele
 

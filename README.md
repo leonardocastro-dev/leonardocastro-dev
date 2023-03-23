@@ -1,4 +1,4 @@
-### Olá! Eu sou o Quickly
+### Olá! Eu sou o Leonardo
 
 - 🔭 Hoje trabalho como desenvolvedor Full-Stack
 - 🌱 Estudando HTML & CSS & JavaScript

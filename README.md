@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Leonardo
 
-- 🔭 Hoje trabalho como desenvolvedor Full-Stack
-- 🌱 Estudando HTML & CSS & JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Desenvolvedor Full-Stack Python | React | TypeScript | Django | Docker | CircleCI | DevOps | SQL
+- 🌱 Tenho 18 anos, altualmente estou finalizando o curso de Desenvolvimento Full-Stack na EBAC - Escola Britânica de Artes e Tecnologias, e estou cursando Análise e Desenolvimento de Sistemas na USF - Universidade São Francisco.
 
 <div>
   <a href="https://github.com/leonardodecastro-programmer">

@@ -6,12 +6,12 @@
   <li>🌱 Meu nome é Leonardo de Castro, tenho 18 anos, altualmente estou finalizando o curso de Desenvolvimento Full-Stack na EBAC - Escola Britânica de Artes e Tecnologias, e estou cursando Análise e Desenolvimento de Sistemas na USF - Universidade São Francisco.</li>
 </ul>
 
-<h1>Olá! Eu sou o Leonardo 👋🏻</h1>
+<h1>Hello! I am Leonardo 👋🏻</h1>
 
 <ul>
-  <li>🔭 Desenvolvedor Full-Stack Python | TypeScript | React | Redux | Node | Tailwind | Django | Docker | CircleCI | DevOps | SQL</li>
+  <li>🔭 Full-Stack Python Developer | TypeScript | React | Redux | Node | Tailwind | Django | Docker | CircleCI | DevOps | SQL</li>
   <br>
-  <li>🌱 Meu nome é Leonardo de Castro, tenho 18 anos, altualmente estou finalizando o curso de Desenvolvimento Full-Stack na EBAC - Escola Britânica de Artes e Tecnologias, e estou cursando Análise e Desenolvimento de Sistemas na USF - Universidade São Francisco.</li>
+  <li>🌱 My name is Leonardo de Castro, I'm 18 years old, and I'm currently finishing the Full-Stack Development course at EBAC - British School of Arts and Technology. I'm also studying Systems Analysis and Development at USF - São Francisco University.</li>
 </ul>
 <hr>
 <div>

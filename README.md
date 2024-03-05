@@ -5,7 +5,7 @@
   <br>
   <li>🌱 Meu nome é Leonardo de Castro, tenho 18 anos, altualmente estou finalizando o curso de Desenvolvimento Full-Stack na EBAC - Escola Britânica de Artes e Tecnologias, e estou cursando Análise e Desenolvimento de Sistemas na USF - Universidade São Francisco.</li>
 </ul>
-
+<hr>
 <h1>Hello! I am Leonardo 👋🏻</h1>
 
 <ul>

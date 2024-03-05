@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou o Leonardo 👋🏻</h1>
 
 <ul>
-  <li>🔭 Desenvolvedor Full-Stack Python | React | TypeScript | Django | Docker | CircleCI | DevOps | SQL</li>
+  <li>🔭 Desenvolvedor Full-Stack Python | TypeScript | React | Redux | Node | Tailwind | Django | Docker | CircleCI | DevOps | SQL</li>
   <br>
   <li>🌱 Tenho 18 anos, altualmente estou finalizando o curso de Desenvolvimento Full-Stack na EBAC - Escola Britânica de Artes e Tecnologias, e estou cursando Análise e Desenolvimento de Sistemas na USF - Universidade São Francisco.</li>
 </ul>

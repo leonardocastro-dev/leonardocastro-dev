@@ -1,7 +1,7 @@
 <h1>Hello! I am Leonardo 👋🏻</h1>
 
 <ul>
-  <li>🔭 Full-Stack Python Developer | TypeScript | React | Redux | Node | Tailwind | Django | Docker | CircleCI | DevOps | SQL</li>
+  <li>🔭 Full-Stack Node Developer | TypeScript | React | Redux | Node | Tailwind | Docker | CircleCI | DevOps | SQL</li>
   <br>
   <li>🌱 My name is Leonardo de Castro, I'm 18 years old, and I'm currently finishing the Full-Stack Development course at EBAC - British School of Arts and Technology. I'm also studying Systems Analysis and Development at USF - São Francisco University.</li>
 </ul>
